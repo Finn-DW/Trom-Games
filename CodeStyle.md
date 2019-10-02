@@ -11,7 +11,7 @@ Make it readable and understandable.
 
 * Names should *rarely* be or contain abbreviations.
 
-* Names need to describe what something is doing, what its purpose is, etc. Names like `num1`, `var2`, `a`, `b`, `c`, `n`, etc are not acceptable. Good examples are `
+* Names need to describe what something is doing, what its purpose is, etc. Names like `num1`, `var2`, `a`, `b`, `c`, `n`, etc are not acceptable.
 
 * Curly brackets should not be in the same line with other text (allowed exclusions are short single-liners in header files: constructors/destructors and get/set-like functions). Examples:
     
