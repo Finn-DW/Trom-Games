@@ -34,7 +34,7 @@ Make it readable and understandable.
         ...
     }
     ```
-* Opening and closing curly brackets should be on the same column (allowed exclusions are '{}' in header files and single-liners mentioned above).
+* Opening and closing curly brackets should be on the same column
 * One statement per code line. `float x, y;` and similar is **not** allowed.
 * No space between function’s name and parentheses "(".
 * No space before comma, semicolon, and parentheses.
