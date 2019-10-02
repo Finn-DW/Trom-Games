@@ -34,14 +34,14 @@ Make it readable and understandable.
         ...
     }
     ```
-* Opening and closing curly brackets should be on the same column
+* Opening and closing curly brackets should be on the same column.
 * One statement per code line. `float x, y;` and similar is **not** allowed.
 * No space between function’s name and parentheses "(".
 * No space before comma, semicolon, and parentheses.
 * Single space character after a comma.
 * Single space character before and after binary arithmetic operators (+, -, *, /, *, /, %, &, &&, |, ||, |=, ==, +=, etc.) and before unary operators (-, !, ~, etc.).
 * Single space character before and after '?' and ':' in the conditional/ternary operator.
-* No spaces around < and > in template argument lists (see example below).
+* No spaces around < and > in template argument lists.
 * Single space character between statement (if, while, for, switch, etc.) and the opening '('.
 
 ### A few more rules that are easier to show than to explain
