@@ -5,7 +5,7 @@ Commits that break too many of these might get rejected.__
 
 ## The short version
 
-Make it readable and understandable.
+Make it readable and understandable. Use the `clang-format` supplied in this repo.
 
 ## The long version
 
